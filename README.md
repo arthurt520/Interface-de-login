@@ -13,5 +13,5 @@
 
 ![image](https://github.com/arthurt520/Interface-de-login/assets/74931965/7cd4daab-dd68-4d7b-92a5-fae806d1d1be)
 
-Para visualizar, acesse ele através da plataforma da Vercel:
+- Para visualizar, acesse ele através da plataforma da Vercel:
 https://interface-de-login.vercel.app/
